@@ -484,8 +484,8 @@ class MainActivity : AppCompatActivity() {
         const val TARGET_URL = "https://tastyfx.pro/"
         const val TELEGRAM_PROFILE_URL = "https://t.me/shamimasraf99"
 
-        // Set to false when exporting a clean production APK without the preview tool button
-        private const val ENABLE_PREVIEW_SIMULATOR = true
+        // Set to false for a clean production APK without the preview tool button
+        private const val ENABLE_PREVIEW_SIMULATOR = false
 
         private const val MIN_SPLASH_DISPLAY_MS = 900L
         private const val SPLASH_FADE_DURATION_MS = 450L
