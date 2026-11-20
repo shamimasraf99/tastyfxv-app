@@ -1,0 +1,6 @@
+{
+  "name": "Tasty FX",
+  "description": "Production Android WebView app for https://tastyfx.pro/ with custom splash screen, Bengali developer credits, offline retry screen, external intent routing, and interactive preview tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

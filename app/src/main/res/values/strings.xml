@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tasty FX</string>
+    <string name="app_logo_description">Tasty FX App Logo</string>
+    <string name="splash_loading_text">Loading Tasty FX…</string>
+
+    <!-- Bengali Developer Credits -->
+    <string name="developer_credit_line_1">ডেভেলপার বাই শামীম</string>
+    <string name="developer_credit_line_2">টেলিগ্রাম - @shamimasraf99</string>
+
+    <!-- Offline State -->
+    <string name="offline_title">No Internet Connection</string>
+    <string name="offline_subtitle">Please check your Wi-Fi or mobile data connection and tap retry to reload Tasty FX.</string>
+    <string name="retry_connection">Retry Connection</string>
+    <string name="offline_icon_description">No internet connection icon</string>
+
+    <!-- Intent Error Feedback -->
+    <string name="external_app_not_found">No app found to open this link.</string>
+    <string name="press_back_again_to_exit">Press back again to exit Tasty FX</string>
+
+    <!-- Interactive Preview Simulator Controls -->
+    <string name="preview_lab_button">Preview Lab</string>
+    <string name="preview_lab_title">App Preview &amp; Test Simulator</string>
+    <string name="preview_lab_subtitle">Test the splash screen, upload a custom logo, simulate offline mode, or verify external link Intents.</string>
+    <string name="preview_replay_splash">Replay Splash Screen</string>
+    <string name="preview_upload_logo">Upload Custom Logo</string>
+    <string name="preview_reset_logo">Reset to Tasty FX Logo</string>
+    <string name="preview_simulate_offline">Simulate Offline Screen</string>
+    <string name="preview_test_intents">Test External App Intents</string>
+    <string name="preview_test_telegram">Telegram</string>
+    <string name="preview_test_whatsapp">WhatsApp</string>
+    <string name="preview_test_email">Email</string>
+    <string name="preview_test_call">Call</string>
+    <string name="preview_hide_pill">Hide Preview Button</string>
+    <string name="preview_logo_updated">Splash logo updated for preview</string>
+    <string name="preview_logo_reset">Restored default Tasty FX logo</string>
+</resources>
